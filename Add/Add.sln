@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Add", "Add.csproj", "{71E7D5DA-B9E5-421C-BF69-1F2B9D269EF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mathop", "..\Mathop\Mathop.csproj", "{00129282-B7E6-493D-B85F-B7C01D5112CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71E7D5DA-B9E5-421C-BF69-1F2B9D269EF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71E7D5DA-B9E5-421C-BF69-1F2B9D269EF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71E7D5DA-B9E5-421C-BF69-1F2B9D269EF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71E7D5DA-B9E5-421C-BF69-1F2B9D269EF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00129282-B7E6-493D-B85F-B7C01D5112CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00129282-B7E6-493D-B85F-B7C01D5112CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00129282-B7E6-493D-B85F-B7C01D5112CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00129282-B7E6-493D-B85F-B7C01D5112CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F86E87A1-1FDC-4AC9-86B9-260801B55567}
+	EndGlobalSection
+EndGlobal
